@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am pursuing B.Tech CSE in AKS University at Satna, MP.<br>I am looking to collaborate as a Backend Engineer.<br>I am currently learning python and JavaScript .<br>I have some soft skills like communication in Hindi and English.<br>I am also certified by government of India for training green energy.<br><br> I have some extra skills like i am a video's and photo's
-editor.
+1) I am pursuing B.Tech CSE in AKS University at Satna, MP.<br>2) I am looking to collaborate as a Backend Engineer.<br>I am currently learning python and JavaScript .<br>3)I have some soft skills like communication in Hindi and English.<br>4) I am also certified by government of India for training green energy.<br><br>5) I have some extra skills like i am a video's and photo's editor.
 
 
 ## 🌐 Socials:
